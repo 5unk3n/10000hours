@@ -1,0 +1,13 @@
+footer {
+  margin-bottom: 70px;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.copy {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}

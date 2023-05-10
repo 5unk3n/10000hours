@@ -1,0 +1,27 @@
+.inputs-section {
+  margin-bottom: 147px;
+}
+
+.inputs-career {
+  margin-bottom: 27px;
+}
+
+.inputs-time {
+  margin-bottom: 115px;
+}
+
+.inputs-button {
+  position: relative;
+}
+
+.inputs-button::after {
+  content: "";
+  position: absolute;
+  width: 64px;
+  height: 72px;
+  display: block;
+  background-image: url(../../../../public/img/click.png);
+  background-size: 100%;
+  left: 573px;
+  top: 20px;
+}

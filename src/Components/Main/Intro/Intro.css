@@ -1,0 +1,21 @@
+.intro-section {
+  margin-bottom: 100px;
+}
+
+.intro-title {
+  margin-bottom: 78px;
+  font-family: "OTEnjoystoriesBA", sans-serif;
+  font-size: 3.6rem;
+  color: #f5df4d;
+}
+
+.intro-desc {
+  font-size: 1.8rem;
+  line-height: 3.4rem;
+  background: url(../../../../public/img/quotes.png) no-repeat 50% 20%;
+}
+
+.intro-desc > strong {
+  font-size: 2.4rem;
+  font-weight: 700;
+}
